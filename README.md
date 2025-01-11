@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in R programming related to logical indexing when subsetting data frames. The `bug.R` file shows the incorrect approach, while `bugSolution.R` provides the correct solution and explanation.
